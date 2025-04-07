@@ -110,9 +110,9 @@ Status: Awake | Engaged | Redefining Cybersecurity 💻🔐
 <br clear="both">
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lazzy503-umer&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="200" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lazzy503-umer&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=onedark&hide_border=false" height="200" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=lazzy503-umer&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="200" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=lazzyroot505-haroon&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="200" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lazzyroot505-haroon&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=onedark&hide_border=false" height="200" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=lazzyroot505-haroon&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="200" alt="streak graph"  />
 </div>
 
 ###
